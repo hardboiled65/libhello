@@ -1,0 +1,7 @@
+name: hello
+description: A sample Hello, World library.
+version: 0.1.0
+license: LGPL-2.1
+scripts:
+  configure: echo "Nothing to do."
+  make: make
